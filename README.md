@@ -1,4 +1,4 @@
-<h5>Request Body needs to have the following format:</h5>
+<h3>Request Body needs to have the following format:</h3>
 
 {<br>
 	"params":[<br>
@@ -20,9 +20,7 @@
     "timestamp": "2018-10-01T00:00:00.000Z",<br>
     "value": 134<br>
   },<br>
-  {<br>
-  ...<br>
-  },<br>
+  {...},<br>
   ...<br>
 ]<br>
 }<br>
